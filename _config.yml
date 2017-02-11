@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+title: Basic Support
+gems:
+  - jekyll-sitemap
